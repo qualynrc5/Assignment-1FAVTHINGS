@@ -3,9 +3,6 @@ My Favorite Things
 2. Money
 3. Pizza
 4. Love
-5. Sweets
-6. Computer Science
-7. Sleep
-8. Traveling
-9. Family
-10. Music
+5. Traveling
+6. Family
+7. Music
